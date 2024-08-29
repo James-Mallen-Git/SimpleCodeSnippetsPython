@@ -1,0 +1,10 @@
+#lets make a coffee shop
+
+print("Hey Welcome to my coffee shop!!!")
+
+name=(input("Hey what's your name?\n"))
+
+if name == "Ben":
+    print("You're not welcome here evil Ben GET OUT!")
+else:
+    print("Hello "+name+" you are very welcome please take a seat")

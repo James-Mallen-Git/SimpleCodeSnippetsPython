@@ -1,0 +1,8 @@
+my_variable = 9
+
+if my_variable < 10:
+    while my_variable < 10:
+        print("Hello")
+        my_variable = my_variable + 1
+else:
+    print("Next time enter a number less than 10")
